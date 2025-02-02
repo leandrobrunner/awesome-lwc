@@ -447,7 +447,7 @@ export const componentListData = [
         title: 'LWC Signals',
         repo: 'https://github.com/leandrobrunner/lwc-signals',
         description: 'A lightweight reactive state management library for Salesforce Lightning Web Components.',
-        repoOwnerName: 'leandrobrunner',
+        repoOwnerName: 'Leandro Brunner',
         repoOwnerLink: 'https://github.com/leandrobrunner'
     }
 ];
