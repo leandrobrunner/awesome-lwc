@@ -188,7 +188,7 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 -   [Signature Pad](https://github.com/szimek/signature_pad) HTML5 Canvas for accepting signatures.
 
--   [LWC Signals]([https://github.com/szimek/signature_pad](https://github.com/leandrobrunner/lwc-signals)) A lightweight reactive state management library for Salesforce Lightning Web Components.
+-   [LWC Signals](https://github.com/leandrobrunner/lwc-signals) A lightweight reactive state management library for Salesforce Lightning Web Components.
 
 ---
 
