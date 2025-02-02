@@ -160,7 +160,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 -   [Image Censor Component](https://github.com/arufian/Image-Censor-Lightning-Web-Component) (Alfian Busyro, [@arufian](https://github.com/arufian))
     A photo editor to censor or block sensitive data
 
--   [LWC Signals]([https://github.com/chandrakiran-dev/lwc-redux](https://github.com/leandrobrunner/lwc-signals))
+-   [LWC Signals](https://github.com/leandrobrunner/lwc-signals)
 
     A lightweight reactive state management library for Salesforce Lightning Web Components.
 
